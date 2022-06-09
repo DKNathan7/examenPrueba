@@ -1,12 +1,12 @@
-# examenPrueba
-Esta funcion:
+<?php
+class Aplicaion {
 
-    1. mete por parametro....
-    2. otera cosa
-    3. devuelve....
-
-´´´js
-
+    /**
+     * mostrar
+     * funcion que hace......
+     * @param  mixed $numero
+     * @return $texto
+     */
     public function mostrar($numero){
         $texto = "";
         if ($_POST["numero"] == 1){
@@ -16,5 +16,7 @@ Esta funcion:
         }
         return $texto;
     }
-
-´´´
+    
+}
+    
+?>

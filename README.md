@@ -18,3 +18,12 @@ Esta funcion:
     }
 
 ´´´
+ <!--Emoji (https://gist.github.com/rxaviers/7360908) -->
+
+  :blush:
+  :blush:	 
+  :smiley:	
+  :relaxed:
+  :smirk:	
+  :heart_eyes:
+
